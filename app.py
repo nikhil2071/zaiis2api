@@ -822,7 +822,11 @@ def proxy_chat_completions():
                 detail = resp.text
             except Exception:
                 detail = ''
-            _mark_token_error(token, config, f"HTTP {resp.status_code}: {detail[:200]}")
+            # 429 (Too Many Requests) 是速率限制，不计入错误，只尝试下一个token
+            if resp.status_code != 429:
+                _mark_token_error(token, config, f"HTTP {resp.status_code}: {detail[:200]}")
+            else:
+                logger.info(f"Token {token.id} hit rate limit (429), trying next token")
             last_response = Response(resp.content, status=resp.status_code, mimetype=resp.headers.get('Content-Type', 'application/json'))
             continue
 
@@ -904,7 +908,11 @@ def proxy_models():
                 detail = resp.text
             except Exception:
                 detail = ''
-            _mark_token_error(token, config, f"HTTP {resp.status_code}: {detail[:200]}")
+            # 429 (Too Many Requests) 是速率限制，不计入错误，只尝试下一个token
+            if resp.status_code != 429:
+                _mark_token_error(token, config, f"HTTP {resp.status_code}: {detail[:200]}")
+            else:
+                logger.info(f"Token {token.id} hit rate limit (429), trying next token")
             last_response = Response(resp.content, status=resp.status_code, mimetype=resp.headers.get('Content-Type', 'application/json'))
             continue
 
