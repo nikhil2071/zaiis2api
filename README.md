@@ -90,9 +90,6 @@ curl http://localhost:5000/v1/chat/completions \
   }'
 ```
 
-### 获取模型列表
-
-**Endpoint**: `http://localhost:5000/v1/models`
 
 ## 管理面板功能
 
