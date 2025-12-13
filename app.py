@@ -160,7 +160,6 @@ def login_page():
     return send_from_directory('static', 'login.html')
 
 @app.route('/manage')
-@login_required
 def manage_page():
     return send_from_directory('static', 'manage.html')
 
